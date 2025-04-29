@@ -68,7 +68,7 @@ function App() {
       title: "明细字段套用",
       description: "合同回款中的信息以表格的形式清晰，也能够按要求自动加入合同文本指定业务位置",
       image: "/明细字段套用.png",
-      videoUrl: "/8 明细字段套用.mp4",
+      videoUrl: "/8 明细表套用.mp4",
       icon: Database
     },
     {
